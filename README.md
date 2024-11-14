@@ -1,1 +1,3 @@
 # employee-hibernate
+
+This project demonstrates how to perform basic CRUD (Create, Read, Update, Delete) operations on a database using Java. It utilizes JDBC for direct database connectivity and Hibernate for ORM (Object-Relational Mapping). The application provides a console-based interface for users to interact with the database. The setup includes detailed configuration steps for both JDBC and Hibernate. It serves as a simple example for learning how to integrate JDBC and Hibernate in a Java application. The project is designed for educational purposes to understand database operations and object mapping in Java.
